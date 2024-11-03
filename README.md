@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a senior year high school student. My public repositories mainly include projects I've done to improve my skill (or just for fun) in my spare time, but there's also my current NixOS configuration, which I aim to keep simple and straight to the point.
+
+My favourite side project language is currently Rust, but I also know Javascript (+CSS, HTML; TS, Astro), Python and Dart.
+
 <!--
 **ahi6/ahi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
