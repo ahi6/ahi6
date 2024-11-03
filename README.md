@@ -4,6 +4,7 @@ I'm a senior year high school student. My public repositories mainly include pro
 
 My favourite side project language is currently Rust, but I also know Javascript (+CSS, HTML; TS, Astro), Python and Dart.
 
+Check out my (personal webpage)[https://ahi.pages.dev] which I seldom update but which includes my projects as well as a little bit more info about me.
 <!--
 **ahi6/ahi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
