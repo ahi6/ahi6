@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a senior year high school student. My public repositories mainly include projects I've done to improve my skill (or just for fun) in my spare time, but there's also my current NixOS configuration, which I aim to keep simple and straight to the point.
+I'm a college student (1st semester as of Sept 2025). My public repositories mainly include projects I've done to improve my skill (or just for fun) in my spare time, but there's also my current NixOS configuration, which I aim to keep simple and straight to the point.
 
 My favourite side project language is currently Rust, but I also know Javascript (+CSS, HTML; TS, Astro), Python and Dart.
 
